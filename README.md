@@ -15,11 +15,11 @@ From here, you can choose to do whatever you need with the created deck. Here ar
   
   ![print_deck](https://user-images.githubusercontent.com/97734706/165000420-95abc3ed-7cb0-4664-a766-bd4d8104c715.png)
   
-  # <img width="734" alt="Deck_output" src="https://user-images.githubusercontent.com/97734706/165000506-2aa6a430-6bab-4a93-a142-e8bc504f373a.PNG">
+  # - <img width="734" alt="Deck_output" src="https://user-images.githubusercontent.com/97734706/165000506-2aa6a430-6bab-4a93-a142-e8bc504f373a.PNG">
 
   - Print only the top card on the deck
    
   ![print_first_card](https://user-images.githubusercontent.com/97734706/165000458-61bfec52-4faa-49a0-8ed7-3ecb9b245906.png)
   
-  # <img width="61" alt="First_card_output" src="https://user-images.githubusercontent.com/97734706/165000518-140209e6-85de-465c-aa33-1c54a55d3919.PNG">
+  # - <img width="61" alt="First_card_output" src="https://user-images.githubusercontent.com/97734706/165000518-140209e6-85de-465c-aa33-1c54a55d3919.PNG">
 
