@@ -2,7 +2,7 @@
 # Description
 A python program that creates the 52 cards in a standard deck
 ## How to use
-Open main.py and copy code
+You can either download and use, or copy and paste the code from main.py
 ## How it works
   - First we set up the constants and assign their corresponding shapes
 ![Constants](https://user-images.githubusercontent.com/97734706/165000276-7b257dc3-4a1f-48cc-b20f-aeca0c7e3a8c.png)
